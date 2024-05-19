@@ -1,6 +1,6 @@
 # Hamburg Stairs Map
 
-https://xennis.github.io/hamburg-stairs-map/
+![Screenshot](screenshot.png)
 
 ## Data set
 
